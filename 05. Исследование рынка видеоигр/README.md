@@ -1,4 +1,4 @@
-# Изучение закономерностей, определяющих успешность игр [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/04.%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%28GameDev%29/04_gamedev.ipynb)
+# Изучение закономерностей, определяющих успешность игр [(Посмотреть проект)](https://github.com/alexeybutyrin/YPracticum/blob/c92b7a953e0cc99a8877b95b961a2129941d4750/05.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F%20%D0%B2%202017%20%D0%B3%D0%BE%D0%B4%D1%83.ipynb)
 
 ## Задачи
 Необходимо было обработать данные и решить следующие задачи:
@@ -14,6 +14,3 @@
 
 ## Используемые навыки и инструменты
 `Python`, `Pandas`, `Matplotlib`, `NumPy`, `SciPy`, `Seaborn`, `предобработка данных`, `исследовательский анализ данных`, `описательная статистика`, `проверка статистических гипотез`
-
-## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/04.%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%28GameDev%29/04_gamedev.ipynb)
