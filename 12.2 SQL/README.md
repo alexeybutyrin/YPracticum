@@ -1,4 +1,4 @@
-# Анализ базы данных сервиса чтения книг (SQL, финальный проект, ч.2) [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/12.2%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%28SQL%29/12_2_SQL_final.ipynb)
+# Анализ базы данных сервиса чтения книг (SQL, финальный проект, ч.2) [(Посмотреть проект)](https://github.com/alexeybutyrin/YPracticum/blob/25c065a6e6d493454267af9f235fe2229494e34f/12.2%20SQL/SQL_2.ipynb%20)
 
 ## Задачи
 Необходимо написать 5 запросов:
@@ -11,5 +11,4 @@
 ## Используемые навыки и инструменты
 `Python`, `Pandas`, `Sqlalchemy`, `SQL`
 
-## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/12.2%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%28SQL%29/12_2_SQL_final.ipynb)
+
