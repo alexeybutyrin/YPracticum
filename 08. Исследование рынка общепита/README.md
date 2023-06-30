@@ -1,4 +1,4 @@
-# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/08.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0/08_catering%20analytics.ipynb)
+# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения [(Посмотреть проект)](https://github.com/alexeybutyrin/YPracticum/blob/90fed0669892324fb5802150ef8e0725b745eafe/08.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA%20%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B.ipynb)
 
 ## Задачи
 Необходимо было обработать данные и решить следующие задачи:
@@ -12,7 +12,5 @@
 ## Используемые навыки и инструменты
 `Python`, `Pandas`, `Seaborn`, `Plotly`, `визуализация данных`, `requests`, `API Yandex.Геокодер`
 
-## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/08.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0/08_catering%20analytics.ipynb)
-<br>
-[Посмотреть презентацию проекта](https://disk.yandex.ru/i/glWfqDD3UyW4sQ)
+
+[Посмотреть презентацию проекта](https://disk.yandex.ru/i/2IiuwaPwDsyRHA)
